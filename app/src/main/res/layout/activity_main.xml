@@ -45,9 +45,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_1"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -110,9 +111,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/todo"
+
                     android:src="@drawable/image_2"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -175,9 +177,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/todo"
+
                     android:src="@drawable/image_3"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -240,9 +243,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/todo"
+
                     android:src="@drawable/image_4"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -305,9 +309,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/todo"
+
                     android:src="@drawable/image_5"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -370,9 +375,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_6"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -435,9 +441,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_7"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -500,9 +507,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_8"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -565,9 +573,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_9"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -630,9 +639,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_10"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -696,9 +706,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_11"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -755,16 +766,17 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/Day 12"
+                    android:text="Day 12"
                     android:textSize="17sp"
                     android:layout_marginStart="165dp"/>
 
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_12"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -828,9 +840,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_13"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -895,9 +908,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_14"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -962,9 +976,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_15"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1029,9 +1044,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_16"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1096,9 +1112,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_17"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1163,9 +1180,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_18"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1230,9 +1248,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_19"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1297,9 +1316,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_20"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1364,9 +1384,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_21"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1431,9 +1452,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_22"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1498,9 +1520,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_23"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1565,9 +1588,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_24"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1632,9 +1656,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_25"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1699,9 +1724,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_26"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1766,9 +1792,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_27"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1833,9 +1860,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_28"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1900,9 +1928,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_29"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -1969,9 +1998,10 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="170dp"
-                    android:contentDescription="@string/to"
+
                     android:src="@drawable/image_30"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:layout_width="wrap_content"
